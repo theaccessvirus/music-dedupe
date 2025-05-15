@@ -3,6 +3,16 @@ src_ignored/
 dist/
 build/
 *.spec
+music_dedupe.ico
+
+# Brazil specific
+music_dedupe_gui-brazil/
+music_dedupe_gui-brazil/dist/
+music_dedupe_gui-brazil/build/
+music_dedupe_gui-brazil/*.spec
+music_dedupe_gui-brazil/music_dedupe.ico
+music_dedupe_gui-brazil/music_dedupe.png
+music_dedupe_gui-brazil/.DS_Store
 
 # Python
 __pycache__/
