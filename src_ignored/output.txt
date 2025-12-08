@@ -1,0 +1,1002 @@
+.
+├── jesse70s1_05_14_25_20250514_20250514_2112
+│   ├── 005. Daddy Cool - Eagle Rock.mp3
+│   ├── 006.Grand Funk Railroad - The Locomotion.mp3
+│   ├── 01 - Elton John - Your Song (Remastered 2016 - Dolby Atmos).flac
+│   ├── 01 - It's A Long Way To The Top.mp3
+│   ├── 01 - Love Machine (Part 1) - The Miracles.flac
+│   ├── 01 - Move on up.flac
+│   ├── 01 Dr. Hook - Walk right in.mp3
+│   ├── 01 Rhythm of My Heart.mp3
+│   ├── 01 The Gambler.mp3
+│   ├── 01-16 Peaches and Herb - Shake Your Groove Thing.flac
+│   ├── 01-ojays--love_train-oma.mp3
+│   ├── 01-Stevie_Wonder-Isnt_She_Lovely.flac
+│   ├── 01. Blue feat. Kool & The Gang and Lil' Kim - Get Down On It.mp3
+│   ├── 01. Dancing Queen.flac
+│   ├── 01. Mamma Mia.flac
+│   ├── 01. Sweet Home Alabama.flac
+│   ├── 01. The Knack - My Sharona.mp3
+│   ├── 01. Three Times a Lady.flac
+│   ├── 01.Sister Sledge-We are family.mp3
+│   ├── 015. BILLY THORPE AND THE AZTECS - Most People I Know.mp3
+│   ├── 02 - Elton John - Tiny Dancer (Remastered 2016 - Dolby Atmos).flac
+│   ├── 02 - Elton John & Kiki Dee - Dont Go Breaking My Heart.mp3
+│   ├── 02 - Gloria Gaynor - I Will Survive.mp3
+│   ├── 02 - Queen - Bohemian Rhapsody (Operatic Section - 2011 A Cappella Mix).flac
+│   ├── 02 KC and the Sunshine Band - Get Down Tonight.flac
+│   ├── 02 Piano Man.mp3
+│   ├── 02 Tonights The Night.wav
+│   ├── 02 Whole lotta love.flac
+│   ├── 02.Chic-Le freak.mp3
+│   ├── 023 - John Lennon - Imagine.flac
+│   ├── 03 - Cool for Cats.flac
+│   ├── 03 - Frankie Valli - Grease.mp3
+│   ├── 03 - Jungle Boogie.mp3
+│   ├── 03 - Roxanne.flac
+│   ├── 03 - Take a chance on me - ABBA.flac
+│   ├── 03 - The Tramps - Disco Inferno.mp3
+│   ├── 03 A Taste of Honey - Boogie Oogie Oogie.wav
+│   ├── 03 Evie, Part 1 - Stevie Wright.mp3
+│   ├── 03 John Denver - Take me home country roads.flac
+│   ├── 03 Just the Way You Are.mp3
+│   ├── 03 Your Mama Dont Dance.flac
+│   ├── 03-hot_chocolate-everyones_a_winner.flac
+│   ├── 03. Emotions, the - Best of my love.flac
+│   ├── 04 - December 1963 (Oh, What A Night) - Frankie Valli And The Four Seasons.mp3
+│   ├── 04 - Milk & Sugar vs. John Paul Young feat. Jack Flash - Love is in the air.flac
+│   ├── 04 - The Partridge Family & David Cassidy - I Think I Love You.mp3
+│   ├── 04 Van McCoy & The Soul City Symphony - The Hustle.wav
+│   ├── 04_Barry_White_-_Cant_Get_Enough_of_Your_Love_Babe-OBSERVER.flac
+│   ├── 04. Cheryl Lynn - Got to be real.flac
+│   ├── 0406 - Bee Gees - Jive Talkin-.flac
+│   ├── 042 - Barry Manilow - Copacabana.flac
+│   ├── 05 Lipps, Inc. - Funkytown.wav
+│   ├── 05 Maggie May.mp3
+│   ├── 05 Signed, Sealed, Delivered I'm Yours.mp3
+│   ├── 05. Johnny Nash - I can see clearly now.mp3
+│   ├── 05. Rock with you.flac
+│   ├── 057.  Anne Murray  -  You Needed Me.mp3
+│   ├── 06 - Songbird.flac
+│   ├── 06 - Wild Cherry - Play That Funky Music.mp3
+│   ├── 06 Is this love dub.mp3
+│   ├── 06 Superstition.mp3
+│   ├── 06-The Angels - Am I ever gonna see your face again .mp3
+│   ├── 065. Leo Sayer - You make me feel like dancing.mp3
+│   ├── 07 - Jim Croce - Bad Bad Leroy Brown.mp3
+│   ├── 07 Barry Manilow - Copacabana.flac
+│   ├── 07 The Buggles - Video Killed the Radio Star.flac
+│   ├── 07-Stevie_Wonder-Isnt_She_Lovely.flac
+│   ├── 08 - Earth Wind And Fire - Shining Star.mp3
+│   ├── 08 - I Love Rock 'n' Roll.flac
+│   ├── 08 - Michael Jackson - Blame it on the Boogie.flac
+│   ├── 08 Boys dont cry.mp3
+│   ├── 08 The Hues Corporation - Rock the Boat.flac
+│   ├── 08 The Jackson 5 - Dancing Machine.flac
+│   ├── 09 - You and I.flac
+│   ├── 09 Alicia Bridges - I love the nightlife.mp3
+│   ├── 09 Barry Manilow - I Write the Songs.flac
+│   ├── 09 Boogie Shoes.flac
+│   ├── 1-10. War - Low Rider.mp3
+│   ├── 1-11 - 10cc - Dreadlock holiday.mp3
+│   ├── 10 - Bee Gees - How Deep Is Your Love.mp3
+│   ├── 10 - Bee Gees - Saturday Night Fever.flac
+│   ├── 10 - The Best of My Love.flac
+│   ├── 10 Cant Smile Without You.flac
+│   ├── 10. Andrew Gold - Thank You for Being a Friend.mp3
+│   ├── 10. The Commodores - Easy.mp3
+│   ├── 103 Kool and The Gang - Ladies Night.mp3
+│   ├── 103-the_jackson_5-ill_be_there.flac
+│   ├── 107 - Queen - Dont Stop Me Now.flac
+│   ├── 109 Just You n Me.flac
+│   ├── 11 - Bay City Rollers - Saturday Night.mp3
+│   ├── 11 - Earth Wind And Fire - September.mp3
+│   ├── 11 - The Osmonds - One Bad Apple.mp3
+│   ├── 11 Nutbush City Limits.flac
+│   ├── 11. Heart - Barracuda.flac
+│   ├── 113-michael_jackson-dont_stop_til_you_get_enough.flac
+│   ├── 12 - Bee Gees - Stayin Alive.mp3
+│   ├── 12 - Elton John - Philadelphia Freedom (Remastered 2017 - Dolby Atmos).flac
+│   ├── 12 - Parliament - Flash Light.mp3
+│   ├── 12 Olivia Newton-John - Hopelessly Devoted to You.flac
+│   ├── 12 The Jackson 5 - ABC.flac
+│   ├── 12 Three little birds dub.mp3
+│   ├── 12 We are the Champions.mp3
+│   ├── 12_Mac Demarco_Taking Care Of Business (Bto Cover).mp3
+│   ├── 13 If I Cant Have You.flac
+│   ├── 14 - LaBelle - Lady Marmalade.flac
+│   ├── 14 Always On My Mind.mp3
+│   ├── 14 Blondie - Heart of Glass.flac
+│   ├── 15 - Hot Chocolate - You Sexy Thing.mp3
+│   ├── 15 - KC and the Sunshine Band  Thats the way I like it.mp3
+│   ├── 15. Wonderful Tonight.flac
+│   ├── 151. James Taylor - How Sweet It Is.mp3
+│   ├── 16. Patrick Hernandez - Born to be alive.flac
+│   ├── 16. Ram Jam - Black Betty.flac
+│   ├── 17 - B52s - Rock Lobster.mp3
+│   ├── 17 - Carl Douglas - Kung Fu Fighting.mp3
+│   ├── 17 - Peter Allen - I Go To Rio.mp3
+│   ├── 17 Life in the fast lane.flac
+│   ├── 18 - The Ohio Players - Love Rollercoaster.mp3
+│   ├── 18 Labelle - Lady Marmalade.flac
+│   ├── 18 The Sylvers - Boogie Fever.flac
+│   ├── 18. The Cast Of The New Rocky Horror Show - The Timewarp (Face Off Radio Edit).flac
+│   ├── 19 - Boney M. - Rasputin.flac
+│   ├── 19 Weve Only Just Begun.flac
+│   ├── 19. Rupert Holmes - Escape {The Pina Colada Song}.flac
+│   ├── 19. Waterloo.flac
+│   ├── 2-01 I want you back.flac
+│   ├── 2-07 Suzi Quatro - Can the Can.mp3
+│   ├── 20. Gloria Gaynor - I will survive.flac
+│   ├── 21 - BJ Thomas - Raindrops keep falling on my head.mp3
+│   ├── 21 Jackson 5 - Abc.mp3
+│   ├── 22 - Crazy little thing called love.mp3
+│   ├── 24 Grease.flac
+│   ├── 247 - Carpenters - Close To You.mp3
+│   ├── 25. Edwin Starr - War.flac
+│   ├── 28.-Under Pressure (Feat. Queen).flac
+│   ├── 30. Frankie Valli - Cant Take My Eyes off You.mp3
+│   ├── 308_Rod_Stewart_-_Do_Ya_Think_Im_Sexy-OBSERVER.flac
+│   ├── 35-barry_white_-_cant_get_enough_of_your_love_babe-zzzz.mp3
+│   ├── 389 - Just My Imagination - The Temptations.flac
+│   ├── 55  Heartache tonight - Eagles.mp3
+│   ├── 59 - Eagles - Hotel California.mp3
+│   ├── 6 Smoke on the water.mp3
+│   ├── 90 Featuring John Travolta & Olivia Newton John - Grease Megamix Youre The One That I Want.mp3
+│   ├── Al Green  Lets Stay Together.flac
+│   ├── Bay City Rollers - 1993 - Greatest Hits - (05) - I Only Wanna Be With You.mp3
+│   ├── Boston - More than a feeling.flac
+│   ├── Bryan Ferry - The Sound- Hall of Fame - 09 - Lets Stick Together.mp3
+│   ├── Cher Sings Abba Megamix (Mixed By Kevin Sweeney) - Cher.mp3
+│   ├── Cold Chisel - The Sound- Hall of Fame - 15 - Khe Sanh.mp3
+│   ├── David Bowie - Changes.flac
+│   ├── Do Ya Think Im Sexy.flac
+│   ├── Donna Summer - Hot Stuff.flac
+│   ├── Donna Summer_I Feel Love - The Collection_01-03_Bad Girls.flac
+│   ├── Elvis Costello - Too much monkey business - Subterranean H B - Pump it up 19890628-Monza-11.mp3
+│   ├── Go your own way.flac
+│   ├── Ill Be There.flac
+│   ├── James Brown_Greatest Hits_01-09_Get Up Offa That Thing.mp3
+│   ├── jesse70s1_05_14_25_20250514_20250514_2112.csv
+│   ├── jesse70s1_05_14_25_20250514_20250514_2112.m3u8
+│   ├── Joe Cocker - You are so beautiful to me.mp3
+│   ├── John Travolta & Olivia Newton-John - Grease - 02 - Summer nights.flac
+│   ├── KC and the Sunshine Band - Keep It Comin Love.mp3
+│   ├── Kc And The Sunshine Band - Shake Shake Shake 120.mp3
+│   ├── Kiss - I Wanna Rock And Roll All Night.mp3
+│   ├── Kiss - I was made for loving you.mp3
+│   ├── KYM MAZELLE - Young hearts run free.mp3
+│   ├── Lean On Me.flac
+│   ├── Led Zeppelin - Stairway to Heaven.flac
+│   ├── Marvin Gaye - Lets Get It On.flac
+│   ├── Peter, Paul and Mary; Noel Paul Stookey - 22 - Wedding Song (There Is Love) - Remastered Version.mp3
+│   ├── Rick Springfield - Jessies Girl (Starjack Rock Qh) Clean - 10b - 130.mp3
+│   ├── Romantics - What I like about you.mp3
+│   ├── Status Quo - Aquostic - Stripped Bare - 16 - Rockin' All Over the World.flac
+│   ├── Stealers wheel - Stuck in the middle with you.mp3
+│   ├── Stevie Wonder - Song review - 07 - Happy birthday.flac
+│   ├── Stevie Wonder - The Complete Stevie Wonder - 01 - You Are the Sunshine of My Life.flac
+│   ├── Sweet - Desolation Boulevard - 01 - Ballroom Blitz.flac
+│   ├── The Commodores - 06 Brick House .flac
+│   ├── Thelma Houston - Dont Leave Me This Way 2019 Remix @ Panoramix Radio Station Com 5u0x.mp3
+│   ├── Thin Lizzy - 06 - The boys are back in town.mp3
+│   └── Wild Cherry-Play that funky music W_ lyrics.mp3
+├── Spotify_100_High_Energy_Hits_o_20250514_20250514_2038
+│   ├── 009. The Rolling Stones - Miss You - Remastered.mp3
+│   ├── 01 - The Cars - Let's Go.mp3
+│   ├── 01 Heartless.mp3
+│   ├── 014.Gallery - Nice to Be with You.mp3
+│   ├── 015. Van McCoy - The Hustle - Original Mix.mp3
+│   ├── 02 - Get Down Tonight.flac
+│   ├── 02 - Honey Cone - Want Ads.mp3
+│   ├── 02 - Long Train Runnin'.flac
+│   ├── 02 - Ringo Starr - Back Off Boogaloo.mp3
+│   ├── 02 - Suzi Quatro & Chris Norman - Stumblin' In.mp3
+│   ├── 02-elton_john-saturday_nights_alright_(for_fighting)_(remastered_2014)-29aff392.flac
+│   ├── 03 - Cecilia.flac
+│   ├── 03 - For the Love of Money.flac
+│   ├── 03 Lou Rawls - You'll Never Find Another Love Like Mine {Sounds Of The Seventies Vol. 44 '70s Dance Party 1975-1976}.flac
+│   ├── 03. Take A Chance On Me.flac
+│   ├── 034.Daddy Dewdrop - Chick-a-Boom.mp3
+│   ├── 04 - Elton John - Honky Cat (Remastered 2017 - Dolby Atmos).flac
+│   ├── 04 Cornelius Brothers and Sister Rose - Too Late To Turn Back Now.mp3
+│   ├── 05. War - Why Can't We Be Friends.mp3
+│   ├── 06 - Paul Simon - Kodachrome.mp3
+│   ├── 06 - The Ides Of March - Vehicle.mp3
+│   ├── 06 Clap for the Wolfman.mp3
+│   ├── 06 Rockin' Robin.mp3
+│   ├── 06-Lowdown.mp3
+│   ├── 06. Chicago - Another Rainy Day in New York City (2002 Remaster).flac
+│   ├── 069.Gladys Knight & The Pips - On and On.mp3
+│   ├── 07 - Bee Gees - You Should Be Dancing.mp3
+│   ├── 07 - Glen Campbell - Southern Nights.mp3
+│   ├── 07 - Keep It Comin' Love.flac
+│   ├── 07-It's Over.mp3
+│   ├── 074.Ringo Starr - Oh My My.mp3
+│   ├── 078.  KISS  -  Rock And Roll All Nite.mp3
+│   ├── 08 - Billy Preston - Will It Go Round In Circles.mp3
+│   ├── 08 - Don't You Worry 'Bout A Thing.mp3
+│   ├── 08 - How Much Love (Remastered).flac
+│   ├── 08 Andrea True Connection - More More More {Sounds Of The Seventies Vol. 44 '70s Dance Party 1975-1976}.flac
+│   ├── 083.Roger Voudouris - Get Used to It.mp3
+│   ├── 09 Bad Time.flac
+│   ├── 09 The Dramatics - Whatcha See Is Whatcha Get.flac
+│   ├── 10 - Gilbert O'Sullivan - Out Of The Question.flac
+│   ├── 10 - Starbuck - Moonlight Feels Right.mp3
+│   ├── 10 - Sweet Hitch-Hiker.flac
+│   ├── 10 - The Love You Save.flac
+│   ├── 10 Amii Stewart - Knock On Wood {Sounds Of The Seventies Vol. 46 '70s Dance Party 1978-1979}.flac
+│   ├── 100 - Ringo Starr - It Don't Come Easy.flac
+│   ├── 109 I'll Do For You Anything You Want Me To (Single Version).m4a
+│   ├── 116 Silver - Wham Bam Shang-A-Lang.flac
+│   ├── 12 - Give the People What They Want.flac
+│   ├── 12 Bay City Rollers - You Made Me Believe In Magic {Sounds Of The Seventies Vol. 35 AM Nuggets}.flac
+│   ├── 12 The Jackson 5 - ABC.flac
+│   ├── 12. Andrew Gold - Lonely Boy.flac
+│   ├── 1292 Grand Funk Railroad - We're An American Band - Remastered 2002.mp3
+│   ├── 13 - Jerry Reed - When You're Hot You're Hot.flac
+│   ├── 13 Billy Preston - Outa-Space {Sounds Of The Seventies Vol. 42 A Loss For Words}.flac
+│   ├── 13. Chicago - Call on Me (2002 Remaster).flac
+│   ├── 14 - Ball Of Confusion (That's What The World Is Today) - The Temptations.flac
+│   ├── 148 - Freda Payne - Band Of Gold (Re-Recorded).mp3
+│   ├── 15 - Gilbert O'Sullivan - Get Down.mp3
+│   ├── 15 - Lee Michaels - Do You Know What I Mean.mp3
+│   ├── 15 - Slippery When Wet - The Commodores.flac
+│   ├── 15. Does Your Mother Know.flac
+│   ├── 16 - Andy Gibb - An Everlasting Love.mp3
+│   ├── 16. One Way Or Another.mp3
+│   ├── 17 - Eruption - I Can't Stand the Rain.mp3
+│   ├── 17 - Seals and Crofts - You're the Love.mp3
+│   ├── 17 Are You Man Enough.flac
+│   ├── 17 The Jackson 5 - Dancing Machine.flac
+│   ├── 18 - The Buoys - Timothy.flac
+│   ├── 18 - Wilson Pickett - Don't Knock My Love, Pt. 1.mp3
+│   ├── 18 The Sylvers - Boogie Fever.flac
+│   ├── 19 - Billy Preston - Nothing From Nothing.mp3
+│   ├── 19 - Three Dog Night - Joy To The World.mp3
+│   ├── 20 Brown Sugar.mp3
+│   ├── 20. I Was Made For Lovin' You.flac
+│   ├── 21. John Paul Young - Love Is In The Air.flac
+│   ├── 2427 Rare Earth - Get Ready - Single Version.mp3
+│   ├── 27 - Slave - Slide (Jimmy Douglas Remix).mp3
+│   ├── 27 - The Pipkins - Gimme Dat Ding.mp3
+│   ├── 36 The Grass Roots - Sooner Or Later.mp3
+│   ├── 39 Billy Ocean - Love Really Hurts Without You.flac
+│   ├── ABBA - 20th Century Masters The Millennium Collection The Best of ABBA - 07 - Knowing Me Knowing You.flac
+│   ├── Abba - Knowing Me Knowing You (Collini Remastered Clean) - 10b - 108.mp3
+│   ├── B3. Keep On Singing.mp3
+│   ├── Billy Joel - Piano Man - The Very Best of Billy Joel - 14 - Movin' Out (Anthony's Song).flac
+│   ├── Come and Get Your Love - Single Version - Redbone.m4a
+│   ├── Eagles - Life in the Fast Lane - 2013 Remaster.mp3
+│   ├── Get Down Get Down {Get On The Floor}.flac
+│   ├── gladys knight and the pips - 23 - daddy could swear, i declare.flac
+│   ├── Grand 12 Inches Vol. 10 - 2013 - (04) - Donna Summer - Hot Stuff (12'' Version).flac
+│   ├── Heaven Must Be Missing An Angel - Pt. 1 - Tavares.m4a
+│   ├── KISS - Love Gun - 02 - Christine Sixteen.flac
+│   ├── Lost In The Ozone - 09 Hot Rod Lincoln.mp3
+│   ├── Spotify Play Funk List {00-000} Bee Gees - Stayin' Alive - From Saturday Night Fever Soundtrack.mp3
+│   ├── Spotify_100_High_Energy_Hits_o_20250514_20250514_2038.csv
+│   ├── Spotify_100_High_Energy_Hits_o_20250514_20250514_2038.m3u8
+│   ├── Sweet - Funny How Sweet Co‐Co Can Be - 17 - Little Willy.flac
+│   └── The Rolling Stones_Honk_31_Happy.flac
+├── Spotify_70_s_Rock_20250514_20250514_2308
+│   ├── 01 - (Iggy Pop) - Lust For Life.flac
+│   ├── 01 - Are You Ready (Remastered 2002).mp3
+│   ├── 01 - Bat Out of Hell.flac
+│   ├── 01 - Black Sabbath.flac
+│   ├── 01 - Born to Run.flac
+│   ├── 01 - Brown Sugar.flac
+│   ├── 01 - Come and Get It.mp3
+│   ├── 01 - Detroit Rock City.flac
+│   ├── 01 - Dr. Hook - The Cover of 'Rolling Stone'.flac
+│   ├── 01 - God Gave Rock and Roll to You.flac
+│   ├── 01 - I Want You to Want Me (Live at Nippon Budokan, Tokyo, JPN - April 1978).mp3
+│   ├── 01 - Julia.flac
+│   ├── 01 - Linda Ronstadt - You're No Good.mp3
+│   ├── 01 - Maggie May (Remastered Version).mp3
+│   ├── 01 - Mount Everest.flac
+│   ├── 01 - Paradise By the Dashboard Light.flac
+│   ├── 01 - Rock and Roll Hoochie Koo.flac
+│   ├── 01 - Rock Billy Boogie.flac
+│   ├── 01 - Rock the Nation.flac
+│   ├── 01 - Teenage Kicks.mp3
+│   ├── 01 - The Joker.mp3
+│   ├── 01 - Thunder Road.flac
+│   ├── 01 - Thunderbox.flac
+│   ├── 01 - Underground.flac
+│   ├── 01 - Why Dontcha.mp3
+│   ├── 01 Dirty Deeds Done Dirt Cheap.mp3
+│   ├── 01 Hot Legs.flac
+│   ├── 01 I Shot The Sheriff.mp3
+│   ├── 01 Refugee.mp3
+│   ├── 01 Snoop Dogg - Riders on the Storm feat. The Doors (Fredwreck remix).flac
+│   ├── 01 Stranglehold.flac
+│   ├── 01. Alvin Stardust - My Coo-Ca-Choo.mp3
+│   ├── 01. Electric Light Orchestra - Mr. Blue Sky.mp3
+│   ├── 01. Sabbath Bloody Sabbath.mp3
+│   ├── 01. Sultans Of Swing.flac
+│   ├── 01. This Town Ain't Big Enough For Both Of Us.flac
+│   ├── 01. Whole Lotta Love - 1990 Remaster.flac
+│   ├── 010. America, George Martin - A Horse with No Name.mp3
+│   ├── 02 - Aerosmith - Dream On.flac
+│   ├── 02 - Jet.flac
+│   ├── 02 - Nantucket Sleighride.mp3
+│   ├── 02 - So Lonely.mp3
+│   ├── 02 - The Ripper.flac
+│   ├── 02 - Who Are You.flac
+│   ├── 02 Black Magic Woman _ Gypsy Queen.flac
+│   ├── 02 Cry Baby.flac
+│   ├── 02 Evil Woman.flac
+│   ├── 02 Piano Man.mp3
+│   ├── 02. Hanging On The Telephone.flac
+│   ├── 02.-Reeling In The Years.flac
+│   ├── 0245 - Peter Frampton - Do You Feel Like We Do - Live.mp3
+│   ├── 03 - Burning Love (Live at The Honolulu International Center, Hawaii January 14, 1973).mp3
+│   ├── 03 - Cecilia.flac
+│   ├── 03 - Elvin Bishop - Fooled Around And Fell In Love.mp3
+│   ├── 03 - I Can't Stand The Rain.flac
+│   ├── 03 - I'm Your Captain_Closer To Home.mp3
+│   ├── 03 - Stealers Wheel - Stuck in the Middle with You.mp3
+│   ├── 03 - The Police - Message In A Bottle.flac
+│   ├── 03 Babe.mp3
+│   ├── 03 Love Rock.flac
+│   ├── 03 Patti Smith Group - Because the Night.flac
+│   ├── 03. Ian Hunter - Once Bitten Twice Shy.flac
+│   ├── 031. The Police - Roxanne - Remastered 2003.mp3
+│   ├── 04 - Dust in the Wind.flac
+│   ├── 04 - Hear My Train a Comin' (Live at Berkeley Community Theatre, Berkeley, CA).flac
+│   ├── 04 - Miracles.flac
+│   ├── 04 - Mountain - Mississippi Queen.mp3
+│   ├── 04 - Piece of My Heart.flac
+│   ├── 04 - Squeeze - Up The Junction.flac
+│   ├── 04 - Steely Dan - Do It Again.mp3
+│   ├── 04 Come Sail Away.mp3
+│   ├── 04 Redbone - The Witch Queen of New Orleans.mp3
+│   ├── 04 Rock and Roll Band.mp3
+│   ├── 04. Black Night.flac
+│   ├── 04. Peter Gabriel - Solsbury Hill.mp3
+│   ├── 04. Rocket Man.mp3
+│   ├── 041 - The Doobie Brothers - 1144 - Long Train Runnin' (2006 Remaster) - USWB10603176 - The Very Best Of - 603497999491 - 775054.flac
+│   ├── 05 - All Because Of You.mp3
+│   ├── 05 - Baby Love.flac
+│   ├── 05 - Elton John - Crocodile Rock (Remastered 2017 - Dolby Atmos).flac
+│   ├── 05 - God Save The Queen.flac
+│   ├── 05 - Isaac Hayes - Theme From Shaft.mp3
+│   ├── 05 - Mister Wind.flac
+│   ├── 05 - Stargazer.flac
+│   ├── 05 - The Edgar Winter Group - Frankenstein - Single Version.mp3
+│   ├── 05 Fly By Night.mp3
+│   ├── 05 If It Doesn't Come Naturally, Leave It.flac
+│   ├── 05 T.N.T..mp3
+│   ├── 05 Take on the World.flac
+│   ├── 05 Working Man _ Finding My Way.flac
+│   ├── 05. Angel.flac
+│   ├── 05. Another Brick in the Wall, Pt. 2.flac
+│   ├── 05. Paul McCartney & Wings - Live And Let Die.flac
+│   ├── 05. Walk on the Wild Side.flac
+│   ├── 06 - Girl You'll Be A Woman Soon.mp3
+│   ├── 06 - Kashmir.flac
+│   ├── 06 - Rock 'N' Roll Damnation.mp3
+│   ├── 06 - Suzi Quatro - 48 Crash.mp3
+│   ├── 06 Me and Julio Down by the Schoolyard.flac
+│   ├── 06-Jailbreak.flac
+│   ├── 06. Free - All Right Now.flac
+│   ├── 06. Manfred Mann's Earth Band - Blinded By The Light.mp3
+│   ├── 06. Voodoo Child.flac
+│   ├── 0679 - Queen - Bohemian Rhapsody - Remastered 2011.mp3
+│   ├── 07  Uriah Heep - Gypsy.mp3
+│   ├── 07 - Hell Ain't a Bad Place to Be.flac
+│   ├── 07 - Marianne Faithfull - Broken English.mp3
+│   ├── 07 - Space Truckin'.flac
+│   ├── 07 - You Ain't Seen Nothing Yet.flac
+│   ├── 07 J.J. Cale - Cajun Moon.flac
+│   ├── 07 Jungle Love.flac
+│   ├── 07 Norman Greenbaum - Spirit in the Sky.flac
+│   ├── 08 - Aerosmith - Walk This Way.flac
+│   ├── 08 - Anarchy In The UK.flac
+│   ├── 08 - Elvis Costello & The Attractions - Watching the Detectives (Single Version).flac
+│   ├── 08 - I Fought The Law.flac
+│   ├── 08 - Jack the Stripper  Fairies Wear Boots.flac
+│   ├── 08 - Three Dog Night - Joy To The World.mp3
+│   ├── 08 Let's Stick Together.mp3
+│   ├── 08 Livin' Thing.flac
+│   ├── 08 The Edgar Winter Group - Free Ride.flac
+│   ├── 086. Alvin Stardust - Jealous Mind.mp3
+│   ├── 087 - The Guess Who - American Woman (7_ Single Version).mp3
+│   ├── 09 I Don't Want to Go Home.flac
+│   ├── 09 T. Rex - Bang a Gong {Get It On}.flac
+│   ├── 09 The Jam - Going Underground.flac
+│   ├── 09 The Runaways - Cherry Bomb.flac
+│   ├── 09.  Deep Purple  -  Burn (Remastered 2004).mp3
+│   ├── 09. Dave Edmunds - Born to Be With You.flac
+│   ├── 09. Roll Away the Stone.flac
+│   ├── 1-01 Hurricane.flac
+│   ├── 1-01. London Calling.mp3
+│   ├── 1-02 The Sweet - Blockbuster.mp3
+│   ├── 1-08 It Makes No Difference.flac
+│   ├── 1-15. Ziggy Stardust (2002 Digital Remaster).mp3
+│   ├── 1-16 The Sensational Alex Harvey Band - Midnight Moses.mp3
+│   ├── 1-18. Space Oddity (1999 Digital Remaster).mp3
+│   ├── 1. We Will Rock You.m4a
+│   ├── 1.03. My Best Friend's Girl.flac
+│   ├── 10 - Hold the Line (Single Version).flac
+│   ├── 10 - No More Mr. Nice Guy (2002 Remaster).mp3
+│   ├── 10 - Paper Plane.mp3
+│   ├── 10 - Sweet - Fox on the Run (Single Version).mp3
+│   ├── 10 Lights.flac
+│   ├── 10. Foghat - I Just Want to Make Love to You.mp3
+│   ├── 10. Hell Bent for Leather.flac
+│   ├── 10. Taste - What's Going On.flac
+│   ├── 1000 - David Cassidy - Daydreamer.mp3
+│   ├── 105. Bob Dylan - Tangled up in Blue.mp3
+│   ├── 109 - Won’t Get Fooled Again (original album version).flac
+│   ├── 11 - Aerosmith - Sweet Emotion.flac
+│   ├── 11 - Break on Through.flac
+│   ├── 11 - Carry On Wayward Son (Single Version).mp3
+│   ├── 11 - Queen - We Are The Champions.mp3
+│   ├── 11 Hurry Up Harry.mp3
+│   ├── 11 Love Hurts.mp3
+│   ├── 11. Cheap Trick - Surrender.mp3
+│   ├── 11. GTA San Andreas – Lynyrd Skynyrd , Free Bird.flac
+│   ├── 11. Nathaniel Rateliff - Famous Blue Raincoat.mp3
+│   ├── 12 - Mott The Hoople - All the Young Dudes.mp3
+│   ├── 12 - Proud Mary.flac
+│   ├── 12 - Roxy Music - Love Is The Drug.mp3
+│   ├── 1292 Grand Funk Railroad - We're An American Band - Remastered 2002.mp3
+│   ├── 13 1984.flac
+│   ├── 13. Barracuda.flac
+│   ├── 13. Roll with the Changes.flac
+│   ├── 14 - Lola (mono single version).mp3
+│   ├── 14 - Wild Cherry - Play That Funky Music (Single Version)  - Various.mp3
+│   ├── 14. The Knack - My Sharona.flac
+│   ├── 142. Fleetwood Mac - Go Your Own Way - 2004 Remaster.mp3
+│   ├── 15 - Black and White.flac
+│   ├── 15 - Dave Mason - We Just Disagree.mp3
+│   ├── 15 - David Essex - Rock On.mp3
+│   ├── 15 - KISS - Rock And Roll All Nite.flac
+│   ├── 16 Average White Band - Pick Up the Pieces.flac
+│   ├── 16. Ram Jam - Black Betty.flac
+│   ├── 16. Wheel in the Sky.flac
+│   ├── 161 Who the - My Generation - Stereo Version.mp3
+│   ├── 17. Baker Gurvitz Army - The Artist.flac
+│   ├── 17. Jo Jo Gunne - Run Run Run.flac
+│   ├── 17. Little Feat - Willin'.flac
+│   ├── 1767 Stranglers the - No More Heroes - 1996 Remaster.mp3
+│   ├── 18 - Joe Jackson - Is She Really Going Out With Him.mp3
+│   ├── 18 - Nutbush City Limits.flac
+│   ├── 18. Flash and the Pan - Waiting For A Train.mp3
+│   ├── 19 - Baba O'Riley.flac
+│   ├── 19. Buffalo Springfield - For What It's Worth.flac
+│   ├── 190 - Knockin' On Heaven's Door - Bob Dylan.flac
+│   ├── 2-04 The Sweet - The Ballroom Blitz.mp3
+│   ├── 2-15 The Last Waltz Suite_ The Weight.flac
+│   ├── 2-17 The Motors - Airport.mp3
+│   ├── 20  Nazareth - This Flight Tonight.mp3
+│   ├── 20 - Free - All Right Now.mp3
+│   ├── 20. John Miles - Music.flac
+│   ├── 204 - The First Cut Is the Deepest.flac
+│   ├── 21 - Creedence Clearwater Revival - Have You Ever Seen The Rain.mp3
+│   ├── 21 - Photograph.mp3
+│   ├── 21. AC-DC - Highway to Hell (Live - 1991).flac
+│   ├── 27. Joe Cocker - Feelin' Alright.mp3
+│   ├── 28 - In The Year 2525 (Exordium & Terminus) - Zager and Evans.WAV
+│   ├── 3-03 Mud - Tiger Feet.mp3
+│   ├── 37 Deep Purple - Woman From Tokyo - Remastered 2000.mp3
+│   ├── 416 - The Full Tilt Boogie Band - 5019647 - Me and Bobby McGee - USSM17000917 - Janis Joplin's Greatest Hits - Unknown - 1025869.flac
+│   ├── 429. Deep Purple - Smoke On The Water (1997 Digital Remaster).mp3
+│   ├── 47.  Buzzcocks  -  Ever Fallen In Love (With Someone You Shouldn't've) (1996 Remastered Version).mp3
+│   ├── 50 Oldies Party {11-014} Steve Harley and Cockney Rebel - Make Me Smile.mp3
+│   ├── 53 The Byrds - Chestnut Mare.mp3
+│   ├── 58. Eddie Money - Two Tickets to Paradise.mp3
+│   ├── 88. Faces - Stay with Me (2004 Remaster).mp3
+│   ├── 94 - Dr. Hook & The Medicine Show - Sylvia's Mother.mp3
+│   ├── A1 - Summertime Blues.flac
+│   ├── Blackfoot - 09 - Train, Train.mp3
+│   ├── Creedence Clearwater Revival - 4 - Bad Moon Rising - Remastered 1985.mp3
+│   ├── Derek And The Dominos - Layla Disc 4.flac
+│   ├── Eagles - To the Limit- The Essential Collection - 1 - One of These Nights - 2013 Remaster.mp3
+│   ├── Faces - Ooh La La (2004 Remaster).mp3
+│   ├── Free - Heartbreaker - 01 - Wishing Well.flac
+│   ├── Grateful Dead - 4 - Casey Jones - 2001 Remaster.mp3
+│   ├── Heroes - 1999 Remaster - David Bowie.mp3
+│   ├── In-A-Gadda-Da-Vida - Single Version - Iron Butterfly.m4a
+│   ├── James Gang - Funk #49.flac
+│   ├── Judas Priest - 03 - Better by You Better Than Me.flac
+│   ├── Lou Reed - When Your Heart Is Made Out of Ice - 01-03 - Vicious (447kbps).flac
+│   ├── Nazareth - Hair of the Dog.flac
+│   ├── Nazareth - Razamanaz.flac
+│   ├── Pink Floyd - Comfortably Numb - 2011 Remastered Version.mp3
+│   ├── Pink Floyd - Money - 2011 Remastered Version.mp3
+│   ├── Saxon - Denim and Leather - 01 - Princess of the Night.flac
+│   ├── Spotify Play Funk List {00-000} Stevie Wonder - Superstition - Single Version.mp3
+│   ├── Spotify_70_s_Rock_20250514_20250514_2308.csv
+│   ├── Spotify_70_s_Rock_20250514_20250514_2308.m3u8
+│   ├── Stairway to Heaven - 1990 Remaster - Led Zeppelin.mp3
+│   ├── Status Quo - Aquostic - Stripped Bare - 08 - Caroline.flac
+│   ├── Status Quo - Aquostic II - That's a Fact! - 07 - Backwater.flac
+│   ├── T. Rex - Electric Warrior - 06 - Get It On.flac
+│   ├── T. Rex - Millenium Collection - 18 - Children of the Revolution.flac
+│   ├── The Clash - 4 - White Riot - Remastered.mp3
+│   ├── The Hollies - Distant Light (Expanded Edition) - 7 - Long Cool Woman (In a Black Dress) - 1999 Remaster.mp3
+│   ├── The Rolling Stones - Forty Licks - 19 - It's Only Rock'n'Roll (But I Like It) - Remastered 2009.mp3
+│   ├── ZZ Top - 16 - La Grange - 1999 Remaster.mp3
+│   └── ZZ Top - 3 - Sharp Dressed Man - 2008 Remaster.mp3
+├── Spotify_70s_HITS___TOP_100_SON_20250514_20250514_2228
+│   ├── 01 - Badlands.flac
+│   ├── 01 - Bat Out of Hell.flac
+│   ├── 01 - Bob Dylan - Knockin' On Heaven's Door.flac
+│   ├── 01 - Elton John - Your Song (Remastered 2016 - Dolby Atmos).flac
+│   ├── 01 - Got to Be Real.flac
+│   ├── 01 - Mammas Don't Let Your Babies Grow up to Be Cowboys.flac
+│   ├── 01 - Paradise By the Dashboard Light.flac
+│   ├── 01 - The Devil Went Down to Georgia.flac
+│   ├── 01 I Feel the Earth Move.flac
+│   ├── 01 Killing Me Softly With His Song.mp3
+│   ├── 01 Lovely Day.mp3
+│   ├── 01 Michael Jackson - Don't Stop 'Til You Get Enough.flac
+│   ├── 01 Midnight Train to Georgia.flac
+│   ├── 01 More Than a Feeling.mp3
+│   ├── 01 Sweet Home Alabama.flac
+│   ├── 01. Barracuda.mp3
+│   ├── 02 - Aerosmith - Dream On.flac
+│   ├── 02 - Any Way You Want It + Lovin' Touchin' Squeezin'.flac
+│   ├── 02 - Black Magic Woman (Single Version).mp3
+│   ├── 02 - Footsteps in the Dark Pts. 1 and 2.flac
+│   ├── 02 - Summer Nights.mp3
+│   ├── 02 Waylon Jennings - I'm a Ramblin' Man.flac
+│   ├── 020. Fleetwood Mac - The Chain - 2004 Remaster.mp3
+│   ├── 024 - Ted Nugent - Stranglehold.flac
+│   ├── 03 - Bill Withers - Ain't No Sunshine.flac
+│   ├── 03 - Cecilia.flac
+│   ├── 03 It's a Long Way to the Top.flac
+│   ├── 03 It's Too Late.mp3
+│   ├── 03 Lou Rawls - You'll Never Find Another Love Like Mine {Sounds Of The Seventies Vol. 44 '70s Dance Party 1975-1976}.flac
+│   ├── 03 Patti Smith Group - Because the Night.flac
+│   ├── 03 Spanish Girl.mp3
+│   ├── 03 Wheel in the Sky.flac
+│   ├── 033.  ZZ Top  -  La Grange (2005 Remaster).mp3
+│   ├── 04 - For the Love of You Pts. 1 and 2.flac
+│   ├── 04 - Ram Jam - Black Betty.mp3
+│   ├── 04 - Three Little Birds.flac
+│   ├── 04 ~ Stairway to Heaven - Remaster.m4a
+│   ├── 05 - Born to Run.flac
+│   ├── 05 - The Great Gig in the Sky.flac
+│   ├── 05 - Vienna.flac
+│   ├── 05 - Yusuf _ Cat Stevens - Wild World.flac
+│   ├── 05 Cheap Trick - I Want You to Want Me.flac
+│   ├── 05 Last Train to London.flac
+│   ├── 05 Looking Glass - Brandy {You're a Fine Girl}.flac
+│   ├── 05 Off the Wall.mp3
+│   ├── 05. Don't Look Back.flac
+│   ├── 05. Earth Wind and Fire - After the Love Has Gone.mp3
+│   ├── 06 - I Will Always Love You.flac
+│   ├── 06 - Paul Simon - Kodachrome.mp3
+│   ├── 06 - Wild Cherry - Play That Funky Music.mp3
+│   ├── 06 Tupelo Honey.mp3
+│   ├── 06 Without You.flac
+│   ├── 06-Lowdown.mp3
+│   ├── 06. Money.mp3
+│   ├── 063 - Billy Joel - Piano Man.flac
+│   ├── 07 - Me and Bobby McGee.flac
+│   ├── 07 Barry Manilow - Copacabana.flac
+│   ├── 073. Albert Hammond - It Never Rains in Southern California.mp3
+│   ├── 09 - Danny's Song.flac
+│   ├── 09 - Kansas - Dust in the Wind.mp3
+│   ├── 09 Harold Melvin and The Blue Notes - If You Don't Know Me By Now.mp3
+│   ├── 09 I Don't Want to Go Home.flac
+│   ├── 1 - Led Zeppelin - LA Drone - Immigrant Song - How The West Was Won - JRK Remix.flac
+│   ├── 1 - Shining Star.mp3
+│   ├── 1-01 Hurricane.flac
+│   ├── 1-07 Billy Joel - New York State of Mind.flac
+│   ├── 1-08 Billy Joel - She's Always a Woman.flac
+│   ├── 1-10 Billy Joel - Only the Good Die Young.flac
+│   ├── 1-11 Billy Joel - Just the Way You Are.flac
+│   ├── 10 - Bee Gees - How Deep Is Your Love.mp3
+│   ├── 10 - Elton John - Rocket Man.mp3
+│   ├── 10 Billy Paul - Me and Mrs. Jones.flac
+│   ├── 10 The O'Jays - Love Train.flac
+│   ├── 102 Earth Wind and Fire - September.mp3
+│   ├── 105 Daryl Hall and John Oates - Sara Smile.flac
+│   ├── 107 Daryl Hall and John Oates - Rich Girl.flac
+│   ├── 11 - Aerosmith - Sweet Emotion.flac
+│   ├── 11 The Five Stairsteps - O-o-h Child.flac
+│   ├── 116 Silver - Wham Bam Shang-A-Lang.flac
+│   ├── 117 - Dj Kram - Earth Wind and Fire - Fantasy (70s Ext Redrum)[Clean] - MutzNutz.mp3
+│   ├── 12 - Reasons.mp3
+│   ├── 12 - The Emotions - Best of My Love.flac
+│   ├── 128. Eagles - Take It Easy - 2013 Remaster.mp3
+│   ├── 13 - Mr. Blue Sky.flac
+│   ├── 13 Burning Love.mp3
+│   ├── 134 - The Police - Roxanne.mp3
+│   ├── 14 - Gimme! Gimme! Gimme! (A man after midnight) - ABBA.flac
+│   ├── 14 - LaBelle - Lady Marmalade.flac
+│   ├── 14 Always On My Mind.mp3
+│   ├── 142. Fleetwood Mac - Go Your Own Way - 2004 Remaster.mp3
+│   ├── 143. Eagles - Hotel California - 2013 Remaster.mp3
+│   ├── 15. Wonderful Tonight.flac
+│   ├── 16 - Johnny Nash - I Can See Clearly Now.mp3
+│   ├── 17 The Manhattans - Kiss and Say Goodbye.flac
+│   ├── 17. Have You Ever Seen The Rain_.flac
+│   ├── 19 - Bee Gees - Stayin' Alive.mp3
+│   ├── 20. I Was Made For Lovin' You.flac
+│   ├── 21. AC-DC - Highway to Hell (Live - 1991).flac
+│   ├── 21. Bee Gees - Stayin Alive.flac
+│   ├── 21. Lou Reed - Walk On the Wild Side.flac
+│   ├── 39 Billy Ocean - Love Really Hurts Without You.flac
+│   ├── 40 - Unchained Melody (live at Ann Arbor, MI).flac
+│   ├── 41. Commodores - Easy.flac
+│   ├── 47 - Carole King - You've Got a Friend.flac
+│   ├── 5 - Kansas - Carry on Wayward Son.mp3
+│   ├── 5 (Don't Fear) The Reaper - Blue Ã-yster Cult.mp3
+│   ├── ABBA - Gold - Greatest Hits - 01 - Dancing Queen.flac
+│   ├── ABBA - Voyage - 04 - Mamma Mia.flac
+│   ├── Come and Get Your Love - Single Version - Redbone.m4a
+│   ├── Dolly Parton_The Very Best of Dolly Parton_04_Jolene.flac
+│   ├── Eddie Money_Eddie Money_01_Two Tickets to Paradise.flac
+│   ├── John Denver - 3 - Take Me Home, Country Roads - Original Version.mp3
+│   ├── Michael Jackson - Rock with You - Single Version.mp3
+│   ├── Spotify_70s_HITS___TOP_100_SON_20250514_20250514_2228.csv
+│   ├── Spotify_70s_HITS___TOP_100_SON_20250514_20250514_2228.m3u8
+│   ├── The Jacksons - Destiny - 01 - Blame It on the Boogie.flac
+│   ├── The Romantics - What I Like About You.flac
+│   └── TOTO - Hold the Line.flac
+├── Spotify_70s_summer__20250515_20250515_0029
+│   ├── 01 - Boney M. - Daddy Cool.flac
+│   ├── 01 - Lovely Day.flac
+│   ├── 01 - Ma Baker.flac
+│   ├── 01 Anita Ward - Ring My Bell.flac
+│   ├── 01 I Feel the Earth Move.flac
+│   ├── 01 In the Summertime.mp3
+│   ├── 01 Sweet Home Alabama.flac
+│   ├── 019. The Rolling Stones - Beast Of Burden - Remastered 1994.mp3
+│   ├── 02 Chaka Khan - I'm Every Woman.flac
+│   ├── 02 Love Her Madly.flac
+│   ├── 02. Paul mccartney & Wings - Live And Let Die (Main Title).mp3
+│   ├── 022. Bee Gees - Jive Talkin' - From Saturday Night Fever Soundtrack.mp3
+│   ├── 03 - Cecilia.flac
+│   ├── 03 George McCrae - Rock Your Baby.flac
+│   ├── 03 Just What I Needed.mp3
+│   ├── 03 Rich Girl.mp3
+│   ├── 03 Roxanne.mp3
+│   ├── 03. A Taste Of Honey - Boogie Oogie Oogie.flac
+│   ├── 03. It's Too Late.mp3
+│   ├── 03. More Than a Feeling.flac
+│   ├── 034. Frankie Valli - Grease - 2007 Remaster.mp3
+│   ├── 04 - Sun Is Shining.m4a
+│   ├── 04 - Use Me.flac
+│   ├── 04 Long Train Runnin'.mp3
+│   ├── 04. No Sugar Tonight  New Mother Nature.flac
+│   ├── 05 - Yusuf _ Cat Stevens - Wild World.flac
+│   ├── 05 The Joker.mp3
+│   ├── 053. Supertramp - The Logical Song - Remastered 2010.mp3
+│   ├── 06 - December 1963 Oh What a Night.flac
+│   ├── 06 Me and Julio Down by the Schoolyard.flac
+│   ├── 06 Tavares - Heaven Must Be Missing An Angel (Pt. 1).mp3
+│   ├── 06. Free - All Right Now.flac
+│   ├── 07 - Santana - Oye Como Va.flac
+│   ├── 07. Ace - How Long.flac
+│   ├── 070. Leo Sayer - You Make Me Feel Like Dancing - Remastered.mp3
+│   ├── 083. America, George Martin - Ventura Highway.mp3
+│   ├── 093. Fleetwood Mac - Dreams - 2004 Remaster.mp3
+│   ├── 097 - KC and The Sunshine Band - Get Down Tonight (2004 Remaster).flac
+│   ├── 097. Elton John - Bennie And The Jets - Remastered 2014.mp3
+│   ├── 1-09 Superfly.flac
+│   ├── 10 - Big Yellow Taxi.flac
+│   ├── 10 - Dancing in the Moonlight.flac
+│   ├── 10 American Girl.mp3
+│   ├── 10. Donna Summer - Hot Stuff.flac
+│   ├── 11. Gerry Rafferty - Baker Street.flac
+│   ├── 12 - The Emotions - Best of My Love.flac
+│   ├── 12 Wild Cherry - Play That Funky Music.flac
+│   ├── 13 Baccara - Yes Sir I Can Boogie.flac
+│   ├── 135. Johnny Nash - I Can See Clearly Now.mp3
+│   ├── 14 - Patrick Hernandez - Born to Be Alive (The Original).mp3
+│   ├── 14 Amii Stewart - Knock On Wood.flac
+│   ├── 14. Paul Simon - Me and Julio Down by the Schoolyard.flac
+│   ├── 142. Fleetwood Mac - Go Your Own Way - 2004 Remaster.mp3
+│   ├── 143. Eagles - Hotel California - 2013 Remaster.mp3
+│   ├── 16. Steve Miller Band - Fly Like An Eagle.flac
+│   ├── 18 - Walter Murphy - A Fifth Of Beethoven.flac
+│   ├── 247-kool_and_the_gang-get_down_on_it_single_version_.flac
+│   ├── 39 Billy Ocean - Love Really Hurts Without You.flac
+│   ├── 41. Commodores - Easy.flac
+│   ├── 5 (Don't Fear) The Reaper - Blue Ã-yster Cult.mp3
+│   ├── 59 - Seals and Crofts - Summer Breeze.flac
+│   ├── Bang a Gong (Get It On) - 2003 Remaster - T. Rex.m4a
+│   ├── Chicago - 25 or 6 to 4 - 2002 Remaster.mp3
+│   ├── Lost in Music (Sure Is Pure Remix) (1995 Remaster) - Sister Sledge.flac
+│   ├── Spotify Play Funk List {00-000} Bee Gees - Stayin' Alive - From Saturday Night Fever Soundtrack.mp3
+│   ├── Spotify Play Funk List {00-000} CHIC - Good Times - 2018 Remaster.mp3
+│   ├── Spotify Play Funk List {00-000} CHIC - Le Freak - 2018 Remaster.mp3
+│   ├── Spotify_70s_summer__20250515_20250515_0029.csv
+│   ├── Spotify_70s_summer__20250515_20250515_0029.m3u8
+│   ├── Steely Dan - Reelin' In The Years.flac
+│   ├── Stevie Wonder - Disc 2 - 04 - Signed Sealed Delivered I'm Yours.flac
+│   ├── The Bellamy Brothers - Let Your Love Flow.mp3
+│   ├── The Hollies - Distant Light (Expanded Edition) - 7 - Long Cool Woman (In a Black Dress) - 1999 Remaster.mp3
+│   ├── The Hues Corporation - Rock the Boat.mp3
+│   ├── The Kinks - Lola Versus Powerman and the Moneygoround, Part One - 05 - Lola.flac
+│   └── We Are Family - 1995 Remaster - Sister Sledge.flac
+├── Spotify_Awesome_Mix_Guardians__20250514_20250514_2206
+│   ├── 01. Graham Blvd - Come and Get Your Love (From Guardians of the Galaxy).flac
+│   ├── 03. Knightsbridge - Since You Been Gone (From Guardians of the Galaxy 3).flac
+│   ├── 05. Graham Blvd - Spirit in the Sky (From Guardians of the Galaxy).flac
+│   ├── 06 - The Boys Are Back in Town - Knightsbridge - Various Artists - The Boys OST - Soundtrack OST.mp3
+│   ├── 07. Graham Blvd - Hooked On a Feeling (From Guardians of the Galaxy).flac
+│   ├── 08. Graham Blvd - The Chain (From Guardians of the Galaxy).flac
+│   ├── 09. Graham Blvd - Come a Little Bit Closer (From Guardians of the Galaxy).flac
+│   ├── 11. Crazee Noize - Fox on the Run (From Guardians of the Galaxy).flac
+│   ├── 13. Graham Blvd - Escape (The Piña Colada Song) (From Guardians of the Galaxy).flac
+│   ├── 14. Detroit Soul Sensation - I Want You Back (From Guardians of the Galaxy).flac
+│   ├── 16. Graham Blvd - Fooled Around and Fell in Love (From Guardians of the Galaxy).flac
+│   ├── 17. Graham Blvd - Southern Nights (From Guardians of the Galaxy).flac
+│   ├── 19. Crazee Noize - Get It On (Bang A Gong) (From Guardians of the Galaxy).flac
+│   ├── 193 - Graham Blvd - My Sweet Lord (From _Guardians of the Galaxy 2_).mp3
+│   ├── 21. Graham Blvd - Brandy (You're a Fine Girl) (From Guardians of the Galaxy).flac
+│   ├── 22. Silver Disco Explosion - Shake Your Groove Thing (From Guardians of the Galaxy).flac
+│   ├── 24. Knightsbridge - Joy to the World (From Guardians of the Galaxy).flac
+│   ├── 25. Graham Blvd - Magic (From Guardians of the Galaxy).flac
+│   ├── 26. Silver Disco Explosion - Everybody Dance (From Guardians of the Galaxy).flac
+│   ├── 27-silver_disco_explosion-i_will_survive.mp3
+│   ├── 27. Movie Sounds Unlimited - Guardians Inferno (From Guardians of the Galaxy).flac
+│   ├── 35-heavenly_spirits-creep.mp3
+│   ├── Spotify_Awesome_Mix_Guardians__20250514_20250514_2206.csv
+│   └── Spotify_Awesome_Mix_Guardians__20250514_20250514_2206.m3u8
+├── Spotify_Blow_soundtrack_20250514_20250514_2225
+│   ├── (P) King Of Woolworths -Yellow World - Lo Recordings -.mp3
+│   ├── 01 - All the Tired Horses.flac
+│   ├── 01. Black Betty.mp3
+│   ├── 02 - That Smell.flac
+│   ├── 02. Link Wray - Rumble.mp3
+│   ├── 06. Manfred Mann's Earth Band - Blinded By The Light.mp3
+│   ├── 07 - Keep It Comin' Love.flac
+│   ├── 07. Willie Rosario - Let's Boogaloo.mp3
+│   ├── 15 - The Marshall Tucker Band - Can't You See.mp3
+│   ├── 202 - Cream - Strange Brew.flac
+│   ├── 21 - Glad and Sorry.flac
+│   ├── Nikka Costa - Everybody Got Their Something - 11 - Push And Pull.mp3
+│   ├── Spotify_Blow_soundtrack_20250514_20250514_2225.csv
+│   └── The Rolling Stones - Sticky Fingers (Remastered) - 4 - Can't You Hear Me Knocking - 2009 Mix.mp3
+├── VA_-_The_Sound_Of_The_70s-2008-YSP
+│   ├── 00-va_-_the_sound_of_the_70s-2008-back-ysp.jpg
+│   ├── 00-va_-_the_sound_of_the_70s-2008-front-ysp.jpg
+│   ├── 00-va_-_the_sound_of_the_70s-2008-ysp.m3u
+│   ├── 00-va_-_the_sound_of_the_70s-2008-ysp.nfo
+│   ├── 00-va_-_the_sound_of_the_70s-2008-ysp.sfv
+│   ├── 01-electric_light_orchesta_-_livin_thing-ysp.mp3
+│   ├── 02-terry_jacks_-_seasons_in_the_sun-ysp.mp3
+│   ├── 03-oliver_onions_-_flying_through_the_air-ysp.mp3
+│   ├── 04-sweet_-_wig_wam_bam-ysp.mp3
+│   ├── 05-middle_of_the_road_-_sacramento_(a_wonderful_town)-ysp.mp3
+│   ├── 06-the_drifters_-_kissin_in_the_back_row_of_the_movie-ysp.mp3
+│   ├── 07-christie_-_yellow_river-ysp.mp3
+│   ├── 08-simon_and_garfukel_-_cecilia-ysp.mp3
+│   ├── 09-delegation_-_heartache_no_9-ysp.mp3
+│   ├── 10-harold_melvin_and_the_blues_notes_-_the_love_is_lost-ysp.mp3
+│   ├── 11-sailor_-_girls_girls_girls-ysp.mp3
+│   ├── 12-albert_hammond_-_everything_i_want_to_do-ysp.mp3
+│   ├── 13-the_three_degrees_-_dirty_ol_man-ysp.mp3
+│   ├── 14-billy_swan_-_i_can_help-ysp.mp3
+│   ├── 15-deniece_wiliams_-_that_s_what_friends_are_for-ysp.mp3
+│   └── 16-the_manhattans_-_kiss_and_say_goodbye-ysp.mp3
+├── VA-70s_Box-3CD-2007-BFHMP3
+│   ├── 000-va-70s_box-3cd-2007-cover1.jpg
+│   ├── 000-va-70s_box-3cd-2007-cover2.jpg
+│   ├── 000-va-70s_box-3cd-2007.m3u
+│   ├── 000-va-70s_box-3cd-2007.nfo
+│   ├── 000-va-70s_box-3cd-2007.sfv
+│   ├── 100-va-70s_box-cd1-2007.m3u
+│   ├── 101-amii_stewart-knock_on_wood_(album_version).mp3
+│   ├── 102-g.q.-disco_nights_(rock_freak)_(album_version).mp3
+│   ├── 103-delegation-heartache_no._9_(album_version).mp3
+│   ├── 104-dan_hartman-relight_my_fire.mp3
+│   ├── 105-anita_ward-ring_my_bell_(album_version).mp3
+│   ├── 106-johnnie_taylor-disco_lady_(album_version).mp3
+│   ├── 107-harold_melvin_and_the_blue_notes_feat._teddy_pendergrass-the_love_i_lost_(album_version).mp3
+│   ├── 108-earth_wind_and_fire_with_the_emotions-boogie_wonderland_(album_version).mp3
+│   ├── 109-5000_volts-im_on_fire_(album_version).mp3
+│   ├── 110-jacksons-blame_it_on_the_boogie.mp3
+│   ├── 111-mfsb-k-jee_(album_version).mp3
+│   ├── 112-three_degrees-dirty_ol_man_(album_version).mp3
+│   ├── 113-phyllis_hyman-you_know_how_to_love_me_(album_version).mp3
+│   ├── 114-heatwave-boogie_nights_(album_version).mp3
+│   ├── 115-whispers-and_the_beat_goes_on_(album_version).mp3
+│   ├── 116-tina_charles-i_love_to_love_(but_my_baby_loves_to_dance)_(album_version).mp3
+│   ├── 200-va-70s_box-cd2-2007.m3u
+│   ├── 201-t.rex-20th_century_boy.mp3
+│   ├── 202-suzie_quatro-can_the_can.mp3
+│   ├── 203-mott_the_hoople-roll_away_the_stone_(album_version).mp3
+│   ├── 204-gary_glitter-im_the_leader_of_the_gang.mp3
+│   ├── 205-hank_the_knife_and_the_jets-guitar_king_(album_version).mp3
+│   ├── 206-electric_light_orchestra-livin_thing_(album_version).mp3
+│   ├── 207-sailor-a_glass_of_champagne_(album_version).mp3
+│   ├── 208-hello-new_york_groove_(album_version).mp3
+│   ├── 209-slik-forever_and_ever_(album_version).mp3
+│   ├── 210-christie-yellow_river.mp3
+│   ├── 211-david_essex-hold_me_close_(album_version).mp3
+│   ├── 212-flash_and_the_pan-hey_st._peter.mp3
+│   ├── 213-rick_derringer-teenage_love_affair_(album_version).mp3
+│   ├── 214-the_edgar_winter_group-free_ride_(album_version).mp3
+│   ├── 215-heart-straight_on_(album_version).mp3
+│   ├── 216-argent-god_gave_rock_and_roll_to_you.mp3
+│   ├── 300-va-70s_box-cd3-2007.m3u
+│   ├── 301-isaac_hayce-theme_from_shaft.mp3
+│   ├── 302-sylvia-pillow_talk.mp3
+│   ├── 303-the_ilsey_brothers-that_lady.mp3
+│   ├── 304-the_ojays-back_stabbers.mp3
+│   ├── 305-first_choice-smarty_pents.mp3
+│   ├── 306-osibisa-sunshine_day.mp3
+│   ├── 307-new_york_city-im_doin_fine_now.mp3
+│   ├── 308-deniece_williams-that_what_friends_are_for.mp3
+│   ├── 309-earth_wind_and_fire-shining_star.mp3
+│   ├── 310-the_emotions-best_of_my_love.mp3
+│   ├── 311-labelle_feat_patti_labelle-lady_marmelade.mp3
+│   ├── 312-the_drifters-kissin_in_the_back_row_of_movie.mp3
+│   ├── 313-bill_whiters-lovely_day.mp3
+│   ├── 314-sly_and_the_family_stone-everybody_is_a_star.mp3
+│   ├── 315-harold_melvin_and_the_blue_nots_feat._teddy_tendergrass-hope_that_we_can_be_together_soon.mp3
+│   └── 316-the_manhattans-kiss_and_say_good_bay.mp3
+├── VA-Greatest_Ever_Seventies-The_Definitive_Collection-3CD-2007-WRE
+│   ├── 000-va-greatest_ever_seventies-the_definitive_collection-3cd-2007.m3u
+│   ├── 000-va-greatest_ever_seventies-the_definitive_collection-3cd-2007.nfo
+│   ├── 000-va-greatest_ever_seventies-the_definitive_collection-3cd-2007.sfv
+│   ├── 101-bay_city_rollers-bye_bye_baby_(baby_goodbye).mp3
+│   ├── 102-bachman-turner_overdrive_-_you_aint_seen_nothing_yet.mp3
+│   ├── 103-elton_john-crocodile_rock.mp3
+│   ├── 104-rod_stewart-maggie_may.mp3
+│   ├── 105-cher-gypsies_tramps_and_thieves.mp3
+│   ├── 106-thin_lizzy-whiskey_in_the_jar.mp3
+│   ├── 107-status_quo-caroline.mp3
+│   ├── 108-lynyrd_skynyrd-sweet_home_alabama.mp3
+│   ├── 109-the_sweet-blockbuster.mp3
+│   ├── 110-sparks-this_town_aint_big_enough_for_the_both_of_us.mp3
+│   ├── 111-the_osmonds-crazy_horses.mp3
+│   ├── 112-mott_the_hoople-all_the_young_dudes.mp3
+│   ├── 113-stealers_wheel-stuck_in_the_middle_with_you.mp3
+│   ├── 114-dr._hook-sylvias_mother.mp3
+│   ├── 115-lulu-the_man_who_sold_the_world.mp3
+│   ├── 116-joe_jackson-is_she_really_going_out_with_him.mp3
+│   ├── 117-the_jam-down_in_the_tube_station_at_midnight.mp3
+│   ├── 118-john_miles-music.mp3
+│   ├── 201-barry_white-cant_get_enough_of_your_love_babe.mp3
+│   ├── 202-rose_royce-car_wash.mp3
+│   ├── 203-gloria_gaynor-i_will_survive.mp3
+│   ├── 204-earth_wind_and_fire-boogie_wonderland.mp3
+│   ├── 205-james_brown-(get_up_i_feel_like_being_a)_sex_machine.mp3
+│   ├── 206-the_gap_band-i_dont_belive_you_want_to_get_up_and_dance_(oops_upside_your_head).mp3
+│   ├── 207-labelle-lady_marmalade.mp3
+│   ├── 208-lipps_inc.-funkytown.mp3
+│   ├── 209-the_real_thing-you_to_me_are_everything.mp3
+│   ├── 210-yvonne_elliman-if_i_cant_have_you.mp3
+│   ├── 211-shalamar-take_that_to_the_bank.mp3
+│   ├── 212-smokey_robinson_and_the_miracles-the_tears_of_a_clown.mp3
+│   ├── 213-three_degrees-when_will_i_see_you_again.mp3
+│   ├── 214-n_mccoy-the_hustle.mp3
+│   ├── 215-osibisa-sunshine_day.mp3
+│   ├── 216-freda_payne-band_of_gold.mp3
+│   ├── 217-ken_boothe-everything_i_own.mp3
+│   ├── 218-carl_douglas-kung_fu_fighting.mp3
+│   ├── 301-mungo_jerry-in_the_summertime.mp3
+│   ├── 302-desmond_dekker_and_the_aces-you_can_get_it_if_you_really_want.mp3
+│   ├── 303-thirld_world-now_that_weve_found_love.mp3
+│   ├── 304-squeeze-cool_for_cats.mp3
+│   ├── 305-johnny_bristol-hang_on_in_there_baby.mp3
+│   ├── 306-the_new_seekers-id_like_to_teach_the_world_to_sing.mp3
+│   ├── 307-tony_christie-i_did_what_i_did_for_maria.mp3
+│   ├── 308-demis_roussos-forever_and_ever.mp3
+│   ├── 309-the_moments_and_whatnauts-girls.mp3
+│   ├── 310-susan_cadogan-hurt_so_good.mp3
+│   ├── 311-middle_of_the_road-chirpy_chirpy_cheep_cheep.mp3
+│   ├── 312-nicky_thomas-love_of_the_common_people.mp3
+│   ├── 313-dave_and_ansel_collins-double_barrel.mp3
+│   ├── 314-bonnie_tyler-lost_in_france.mp3
+│   ├── 315-brian_and_michael-matchstalk_men_and_matchstalk_cats_and_dogs.mp3
+│   ├── 316-bob_and_marcia-to_be_young_gifted_and_black.mp3
+│   ├── 317-andy_fairweather_low-wide_eyed_and_legless.mp3
+│   └── 318-david_essex-oh_what_a_circus.mp3
+└── VA-Seventies_Top_100_Vol.2-5CD-2008-WRE
+    ├── 000-va-seventies_top_100_vol.2-5cd-2008.m3u
+    ├── 000-va-seventies_top_100_vol.2-5cd-2008.nfo
+    ├── 000-va-seventies_top_100_vol.2-5cd-2008.sfv
+    ├── 101-eric_clapton-after_midnight.mp3
+    ├── 102-the_hollies-long_cool_woman.mp3
+    ├── 103-joe_cocker-feelin_alright.mp3
+    ├── 104-elton_john_and_kiki_dee-dont_go_breaking_my_heart.mp3
+    ├── 105-johnny_wakelin-in_zaire.mp3
+    ├── 106-free-my_brother_jake.mp3
+    ├── 107-doug_ashdown-winter_in_america.mp3
+    ├── 108-t._rex-get_it_on.mp3
+    ├── 109-focus-house_of_the_king.mp3
+    ├── 110-the_rubettes-juke_box_jive.mp3
+    ├── 111-sammy_davis_jr.-barettas_theme.mp3
+    ├── 112-minnie_riperton-loving_you.mp3
+    ├── 113-lou_reed-walk_on_the_wild_side.mp3
+    ├── 114-murray_head-superstar.mp3
+    ├── 115-tom_jones-shes_a_lady.mp3
+    ├── 116-earth_and_fire-ruby_is_the_one.mp3
+    ├── 117-left_side-(like_a)_locomotion.mp3
+    ├── 118-maureen_mcgovern-the_morning_after.mp3
+    ├── 119-jackson_5-ill_be_there.mp3
+    ├── 120-captain_and_tenille-love_will_keep_us_together.mp3
+    ├── 201-abba-s.o.s..mp3
+    ├── 202-albert_hammond-the_free_electric_band.mp3
+    ├── 203-cc-life_is_a_minestrone.mp3
+    ├── 204-j.j._cale-cajun_moon.mp3
+    ├── 205-glen_campbell-rhinestone_cowboy.mp3
+    ├── 206-jim_croce-bad_bad_leroy_brown.mp3
+    ├── 207-chi_coltrane-go_like_elijah.mp3
+    ├── 208-al_stewart-on_the_border.mp3
+    ├── 209-tom_jones-i_(who_have_nothing).mp3
+    ├── 210-the_cats-one_way_wind.mp3
+    ├── 211-bonnie_tyler-its_a_heartache.mp3
+    ├── 212-slade-gudbuy_tjane.mp3
+    ├── 213-amsterdam-lucy_lucy.mp3
+    ├── 214-joe_dolan-youre_such_a_good_looking_woman.mp3
+    ├── 215-gerry_rafferty-right_down_the_line.mp3
+    ├── 216-smyle-its_gonna_be_allright.mp3
+    ├── 217-livin_blues-wang_dang_doodle.mp3
+    ├── 218-angel-the_winter_song.mp3
+    ├── 219-thin_lizzy-the_boys_are_back_in_town.mp3
+    ├── 220-lynyrd_skynyrd-free_bird.mp3
+    ├── 301-marvin_gaye-lets_get_it_on.mp3
+    ├── 302-stealers_wheel-star.mp3
+    ├── 303-sugar_loaf_and_jerry_corbetta-dont_call_us_we_call_you.mp3
+    ├── 304-grand_funk_railroad-some_kind_of_wonderful.mp3
+    ├── 305-roger_glover-love_is_all.mp3
+    ├── 306-hello-new_york_groove.mp3
+    ├── 307-cat_stevens-banapple_gas.mp3
+    ├── 308-spooky_and_sue-swinging_on_a_star.mp3
+    ├── 309-boney_m-ma_baker.mp3
+    ├── 310-stretch-why_did_you_do_it.mp3
+    ├── 311-bay_city_rollers-i_only_want_to_be_with_you.mp3
+    ├── 312-cher-dark_lady.mp3
+    ├── 313-john_miles-music.mp3
+    ├── 314-staus_quo-down_down.mp3
+    ├── 315-the_osmonds-crazy_horses.mp3
+    ├── 316-lindisfarne-run_for_home.mp3
+    ├── 317-wally_tax-miss_wonderful.mp3
+    ├── 318-machine-lonesome_tree.mp3
+    ├── 319-isaac_hayes-theme_from_shaft.mp3
+    ├── 320-ohio_players-fire.mp3
+    ├── 401-santana-shes_not_there.mp3
+    ├── 402-the_knack-my_sharona.mp3
+    ├── 403-dillinger-cokane_in_my_brain.mp3
+    ├── 404-supersister-she_was_naked.mp3
+    ├── 405-pilot-magic.mp3
+    ├── 406-billy_preston-nothing_from_nothing.mp3
+    ├── 407-elkie_brooks-pearls_a_singer.mp3
+    ├── 408-kraayeveld-mona_lisa.mp3
+    ├── 409-barry_white-let_the_music_play.mp3
+    ├── 410-commodores-sail_on.mp3
+    ├── 411-starland_vocal_band-afternoon_delight.mp3
+    ├── 412-blue_planet-im_going_man_im_going.mp3
+    ├── 413-mink_deville-spanish_stroll.mp3
+    ├── 414-grace_jones-la_vie_en_rose.mp3
+    ├── 415-slik-forever_and_ever.mp3
+    ├── 416-steeleye_span-all_around_my_hat.mp3
+    ├── 417-starbuck-moonlight_feels_right.mp3
+    ├── 418-nils_lofgren-shine_silently.mp3
+    ├── 419-shirts-laugh_and_walk_away.mp3
+    ├── 420-jonathan_richman-egyptian_reggae.mp3
+    ├── 501-electric_light_orchestra-dont_bring_me_down.mp3
+    ├── 502-kiss-sure_know_something.mp3
+    ├── 503-sherbert-howzat.mp3
+    ├── 504-herman_brood_and_his_wild_romance-never_be_clever.mp3
+    ├── 505-clout-substitute.mp3
+    ├── 506-wild_cherry-play_that_funky_music.mp3
+    ├── 507-robert_palmer-best_of_both_worlds.mp3
+    ├── 508-the_charlie_daniels_band-the_devil_went_down_to_georgia.mp3
+    ├── 509-marianne_faithfull-the_ballad_of_lucy_jordan.mp3
+    ├── 510-sparks-amateur_hour.mp3
+    ├── 511-nick_lowe-i_love_the_sound_of_breaking_glass.mp3
+    ├── 512-eddie_howell-the_man_from_manhattan.mp3
+    ├── 513-mothers_finest-piece_of_the_rock.mp3
+    ├── 514-ian_dury-wake_up_and_make_love_with_me.mp3
+    ├── 515-u.k.-rendezvous.mp3
+    ├── 516-toto-hold_the_line.mp3
+    ├── 517-elvis_costello-olivers_army.mp3
+    ├── 518-gary_brooker-no_more_fear_of_flying.mp3
+    ├── 519-squeeze-cool_for_cats.mp3
+    └── 520-m-pop_muzik.mp3
+
+12 directories, 988 files
